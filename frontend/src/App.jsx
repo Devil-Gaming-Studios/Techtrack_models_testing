@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const API_URL = "https://techtrack-models-testing.onrender.com/"; // change to your deployed backend URL
+const API_URL = "https://techtrack-models-testing.onrender.com"; // change to your deployed backend URL
 
 const DEFAULTS = {
   battery_capacity_kWh: 60,
